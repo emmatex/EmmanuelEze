@@ -1,0 +1,12 @@
+API/appsettings.Development.json
+.vscode/
+.vs/
+API/obj/
+API/bin/
+Domain/obj/
+Domain/bin/
+Infrastructure/obj/
+Infrastructure/bin/
+UnitTests/obj/
+UnitTests/bin/
+
